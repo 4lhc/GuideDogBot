@@ -1,0 +1,6 @@
+[submodule "src/gym_ped_sim"]
+	path = src/gym_ped_sim
+	url = https://github.com/onlytailei/gym_ped_sim
+[submodule "src/pedsim_ros"]
+	path = src/pedsim_ros
+	url = https://github.com/srl-freiburg/pedsim_ros.git
